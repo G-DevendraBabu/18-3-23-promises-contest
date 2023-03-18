@@ -1,0 +1,37 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.tab 
+{
+    border: 2px;
+    border-color:solid white;
+    margin: 4px;
+    
+    column-gap: 5px;
+    padding: 10px;
+    color: black;
+
+}
+
+#prom1
+{
+    background-color: aqua;
+}
+
+td
+{
+    margin: red;
+}
+
+#prom2
+{
+    background-color:yellow;
+}
+
+
+#prom3
+{
+    background-color:blanchedalmond;
+}
